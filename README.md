@@ -1,2 +1,45 @@
-# ROM-Edits
+# Sentor_G | ROM-Edits
 A list of the edited names in my Pokémon ROM
+
+## Item Edits:
+| **Vanilla** | **New** |
+|:-:|:-:|
+| SPOOKY PLATE | SPOOPY PLATE |
+| GREAT BALL | WORST BALL |
+| SILK SCARF | AME’S SCARF |
+
+
+## Pokémon Edits:
+| **Vanilla** | **New** |
+|:-:|:-:|
+| LOMBRE | NEMESIS  |
+| RAMPARDOS | RAMPYDAMPY |
+| MAGMORTAR | BILLY |
+| SCEPTILE | ARAGORN |
+| ARCANINE | SCRUFFY |
+| SHUCKLE | ZAC |
+| PORYGON2 | WAFFLE |
+| FARFETCH’D | CHAD |
+| BLISSEY | EMMA |
+| RAPIDASH | RACHEL |
+| TANGROWTH | TRUSS |
+| JOLTEON | BROBIE |
+| EMPOLEON | KAWGIAS |
+| DRAGONITE | JHOLLO |
+| FLYGON | OASIS |
+| HYPNO | JOE NOSE |
+| CROBAT | CROZBAT |
+| DODRIO | CERBIRDUS |
+| PORYGON-Z | PORYJON |
+| HONCHKROW | HONCHCORW |
+| SPIRITOMB | SPOOPY |
+| SCIZOR | CLAMPS |
+| GOLDUCK | JAMEL |
+| DRAPION | MIRASZ |
+| GEODUDE | CALEB |
+| FURRET | CYAN |
+| MAGNEZONE | WALTUH |
+| CELEBI | SHREK |
+| GENGAR | GENGY |
+| SWABLU | MELLY |
+| EEVEE | MIMI |
