@@ -8,11 +8,11 @@ A list of the edited names in my Pokémon ROM
 | GREAT BALL | WORST BALL |
 | SILK SCARF | AME’S SCARF |
 
-
 ## Pokémon Edits:
 | **Vanilla** | **New** |
 |:-:|:-:|
-| LOMBRE | NEMESIS  |
+| LOTAD | TADDY |
+| LOMBRE | NEMESIS |
 | RAMPARDOS | RAMPYDAMPY |
 | MAGMORTAR | BILLY |
 | SCEPTILE | ARAGORN |
@@ -43,3 +43,4 @@ A list of the edited names in my Pokémon ROM
 | GENGAR | GENGY |
 | SWABLU | MELLY |
 | EEVEE | MIMI |
+| CRADILY | COCKA |
