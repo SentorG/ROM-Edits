@@ -4,9 +4,9 @@ A list of the edited names in my Pokémon ROM
 ## Item Edits:
 | **Vanilla** | **New** |
 |:-:|:-:|
-| SPOOKY PLATE | SPOOPY PLATE |
-| GREAT BALL | WORST BALL |
-| SILK SCARF | AME’S SCARF |
+| Spooky Plate | Spoopy Plate |
+| Great Ball | Worst Ball |
+| Silk Scarf | Ame’s Scarf |
 
 ## Pokémon Edits:
 | **Vanilla** | **New** |
