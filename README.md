@@ -44,3 +44,4 @@ A list of the edited names in my Pokémon ROM
 | SWABLU | MELLY |
 | EEVEE | MIMI |
 | CRADILY | COCKA |
+| LOUDRED | DERP |
